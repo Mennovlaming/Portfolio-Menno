@@ -63,7 +63,7 @@ const Index = () => (
     <Parallax pages={5}>
       <Hero>
         <BigTitle>
-          Hello, <br /> My name is Menno Vlaming.
+          Hi, <br /> My name is Menno.
         </BigTitle>
         <Subtitle>I'm creating noice web experiences for the next generation of consumer-facing companies.</Subtitle>
       </Hero>
