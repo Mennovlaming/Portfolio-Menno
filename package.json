@@ -1,8 +1,8 @@
 {
-  "name": "Portfolio-M",
-  "description": "Portfolio Menno",
-  "version": "1.0.0",
-  "author": "Menno vlaming",
+  "name": "gatsby-starter-portfolio-cara",
+  "description": "Gatsby Starter Portfolio Cara",
+  "version": "3.0.0",
+  "author": "LekoArts <hello@lekoarts.de> (https://www.lekoarts.de)",
   "license": "MIT",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.0",
@@ -28,7 +28,8 @@
     "typeface-open-sans": "^0.0.54"
   },
   "keywords": [
-    "Menno Vlaming",
+    "gatsby",
+    "starter",
     "portfolio"
   ],
   "scripts": {
@@ -50,6 +51,13 @@
     "eslint-plugin-prettier": "^3.0.1",
     "eslint-plugin-react": "^7.12.0",
     "prettier": "^1.15.3"
-  }
-
+  },
+  "repository": {
+    "url": "https://github.com/LekoArts/gatsby-starter-portfolio-cara",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/LekoArts/gatsby-starter-portfolio-cara/issues"
+  },
+  "homepage": "https://cara.lekoarts.de"
 }

@@ -106,7 +106,7 @@ const Index = () => (
           <Avatar src={avatar} alt="John Doe" />
           <AboutSub>
           Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, 
-          imperdiet a, venenatis vitae.
+          imperdiet a, venenatis vitae. 
           </AboutSub>
         </AboutHero>
         <AboutDesc>
