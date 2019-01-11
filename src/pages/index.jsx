@@ -71,32 +71,32 @@ const Index = () => (
         <Title>Projects</Title>
         <ProjectsWrapper>
           <ProjectCard
-            title="Freiheit"
-            link="https://www.behance.net/gallery/58937147/Freiheit"
+            title="Behance"
+            link="https://www.behance.net/mennovlami25e1"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
-            This project is my entry to Adobe's #ChallengeYourPerspective contest.
+          Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
           </ProjectCard>
           <ProjectCard
-            title="Harry Potter"
-            link="https://www.behance.net/gallery/52915793/Harry-Potter"
+            title="Pictures"
+            link="#"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
-            I entered the DOCMA 2017 award with this Harry Potter inspired image.
+          Nulla consequat massa quis enim.
           </ProjectCard>
           <ProjectCard
-            title="Tomb Raider"
+            title="Illustrations"
             link="https://www.behance.net/gallery/43907099/Tomb-Raider"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
-            Recreation of a Tomb Raider Wallpaper (Fan Art)
+          Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.
           </ProjectCard>
           <ProjectCard
-            title="Eagle"
-            link="https://www.behance.net/gallery/38068151/Eagle"
+            title="Music"
+            link="#"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
-          Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.
+          Fusce vulputate eleifend sapien. Vestibulum purus quam.
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
@@ -114,7 +114,7 @@ const Index = () => (
         Aenean commodo ligula eget dolor. 
         Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
         Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. 
-        Nulla consequat massa quis enim.
+        Nulla consequat massa quis.
         </AboutDesc>
       </About>
       <Contact>
