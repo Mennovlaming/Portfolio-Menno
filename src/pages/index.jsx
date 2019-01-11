@@ -65,7 +65,7 @@ const Index = () => (
         <BigTitle>
           Hi, <br /> My name is Menno.
         </BigTitle>
-        <Subtitle>I'm creating noice web experiences for the next generation of consumer-facing companies.</Subtitle>
+        <Subtitle>I'm creating nice web experiences for the next generation of consumer-facing companies.</Subtitle>
       </Hero>
       <Projects>
         <Title>Projects</Title>
