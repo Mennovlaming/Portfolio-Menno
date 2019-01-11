@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-sitemap: https://www.mennovlaming.nl/sitemap.xml
+sitemap: https://portfolio-cara.netlify.com/sitemap.xml
